@@ -1,4 +1,7 @@
 /* INDEX.HTML */
+:root {
+    background-color: #FFFFFF;
+}
 .body {
     font-family: "Roboto", sans-serif;
     color: #434455;
