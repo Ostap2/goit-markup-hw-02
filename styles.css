@@ -8,10 +8,12 @@
     text-transform: uppercase;
     color: #4d5ae5;
 }
+.logo {
+ color: #4d5ae5;
+}
 
 .span {
     color: #2e2f42;
-
 }
 
 .list {
@@ -73,14 +75,12 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
 }
 
 .paragraf {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 
 .title-What-are-we-doing {
@@ -90,12 +90,10 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-
 }
 
 .background-section {
     background-color: #F4F4FD;
-
 }
 
 .title-Our-Team {
@@ -109,7 +107,6 @@
 
 .card {
     background-color: #FFFFFF;
-
 }
 
 .title-card {
@@ -129,7 +126,6 @@
 
 .footer-html {
     background-color: #2e2f42;
-
 }
 
 .span {
@@ -192,5 +188,5 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-color: #434455;
+    color: #434455;
 }
