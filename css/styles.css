@@ -1,5 +1,7 @@
 /* INDEX.HTML */
-:root
+:root {
+color: black;
+}
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -190,4 +192,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+:root {
+    
 }
