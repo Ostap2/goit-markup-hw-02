@@ -30,8 +30,6 @@
 .link {
     text-decoration: none;
     color: #404bbf;
-    text-decoration: none;
-    color: #404bbf
 }
 :hover {
     color: #404bbf
@@ -179,3 +177,6 @@
             color: #FFFFFF;
             background-color: #404BBF;
         }
+.link {
+    text-decoration: none;
+}
