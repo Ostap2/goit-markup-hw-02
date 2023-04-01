@@ -1,4 +1,9 @@
 /* INDEX.HTML */
+.body-site {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -7,9 +12,6 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-}
-.logo {
- color: #4d5ae5;
 }
 
 .span {
@@ -33,7 +35,7 @@
     text-decoration: none;
     color: #404bbf;
 }
-:hover {
+.link:hover {
     color: #404bbf
 }
 
@@ -131,11 +133,7 @@
 .span {
     color: #f4f4fd;
 }
-.body-site {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #ffffff;
-}
+
 /* PORTFOLIO */
 .logo-portfolio {
     font-family: 'Raleway', sans-serif;
