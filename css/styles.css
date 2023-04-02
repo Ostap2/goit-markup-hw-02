@@ -100,10 +100,6 @@
     color:#2e2f42 ;
 }
 
-.background-section {
-    background-color:#F4F4FD ;
-}
-
 .title-Our-Team {
     font-size: 36px;
     line-height: 1.11;
@@ -181,7 +177,7 @@
     color: #434455;
 }
 .section {
-    background-color: #2e2f42;
+    background-color:#F4F4FD ;
 }
 .title-eff {
     font-size: 56px;
