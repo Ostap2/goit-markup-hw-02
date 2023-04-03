@@ -38,6 +38,9 @@
 .link:hover {
     color:#404bbf ;
 }
+.link:focus {
+    color:#404bbf ;
+}
 
 .adress {
     font-style: normal;
