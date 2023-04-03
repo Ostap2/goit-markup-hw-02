@@ -33,12 +33,6 @@
     color:#2e2f42 ;
     
 }
-.menu:hover {
-    color:  #404bbf ;
-}
-.menu:focus {
-    color: #404bbf ;
-}
 .link {  
     color:#404bbf ;
     text-decoration: none;
