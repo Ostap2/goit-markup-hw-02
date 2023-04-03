@@ -33,7 +33,7 @@
     color:#2e2f42 ;
     
 }
-.menu:first-child a:hover {
+.menu-item:first-child a:hover {
     color: #404bbf;
   }
 .menu:focus {
