@@ -194,3 +194,9 @@
 .button:focus {
     background-color: #404bbf ;
 }
+.mail:focus {
+    color: #404bbf;
+}
+.number:focus {
+    color: #404bbf;
+}
